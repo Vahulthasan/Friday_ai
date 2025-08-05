@@ -1,0 +1,7 @@
+to enter .env first use this
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
+entering env
+.\venv\Scripts\Activate.ps1
+
+
+ python agent.py console
